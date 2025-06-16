@@ -13,7 +13,7 @@
 #define NEOPIXEL_PIN 15
 #define NEOPIXEL_POWER_PIN -1
 #define NEOPIXEL_POWER_STATE 1
-#define NEOPIXEL_NUMBER 1
+#define NEOPIXEL_NUMBER 2
 
 //--------------------------------------------------------------------+
 // TFT - podle specifikací vaší desky
