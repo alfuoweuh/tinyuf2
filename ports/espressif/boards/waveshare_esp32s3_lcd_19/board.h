@@ -8,7 +8,7 @@
 #define PIN_DOUBLE_RESET_RC 36
 
 //--------------------------------------------------------------------+
-// LED - RGB LED je na pinu 15 podle vašich údajů
+// RGB LED
 //--------------------------------------------------------------------+
 #define NEOPIXEL_PIN 15
 #define NEOPIXEL_POWER_PIN -1
@@ -16,7 +16,7 @@
 #define NEOPIXEL_NUMBER 2
 
 //--------------------------------------------------------------------+
-// TFT - podle specifikací vaší desky
+// TFT Display
 //--------------------------------------------------------------------+
 #define CONFIG_LCD_TYPE_ST7789V
 #define DISPLAY_PIN_MISO -1
